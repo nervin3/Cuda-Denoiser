@@ -62,8 +62,7 @@ This project demonstrates a CUDA-based implementation of KNN image denoising usi
 
 3. **denoised_image.jpg**:
    - Output image after the denoising process.
-   ![alt text](<denoised_image (1).jpg>)
-
+   ![alt text](denoised_image.jpg)
 ## Improvements and Refinements
 - **Optimized Memory Access**: Efficient usage of CUDA memory and parallel computation.
 - **Partial Sorting**: Instead of full sorting, a partial sort is used for selecting K nearest neighbors, enhancing performance.
